@@ -1,0 +1,36 @@
+#heading {
+    
+    color:black;
+    text-align: center;
+    font-size: 70px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#titleDiv{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.para{
+    font-size: 25px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+  }
+
+.button{
+    height: 70px;
+    width: 400px;
+    margin-left: 50px;
+    font-size: 30px;
+    color:white;
+    border-color: wheat;
+    background-color: black;
+    margin-top: 20px;
+}
